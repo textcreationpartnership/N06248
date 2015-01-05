@@ -111,8 +111,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:007923_0000_102E0218E20E2B90"/>
-            <pb n="2" facs="tcp:007923_0001_102E021C17D64798"/>
+            <pb facs="unknown:007923_0000_102E0218E20E2B90"/>
+            <pb n="2" facs="unknown:007923_0001_102E021C17D64798"/>
             <p>MINUTES OF CONFERENCES,</p>
             <p>HELD WITH THE <hi>INDIANS,</hi> at <hi>EASTON,</hi> In the Months of <hi>July</hi> and <hi>November,</hi> 1756;</p>
             <p>TOGETHER WITH Two MESSAGES ſent by the GOVERNMENT to the <hi>Indians</hi> reſiding on <hi>Saſquehannah</hi>; and the REPORT of the COM<g ref="char:EOLhyphen"/>MITTEE appointed by the ASSEMBLY to attend the GOVERNOR at the laſt of the ſaid Conferences.</p>
@@ -122,7 +122,7 @@
       </front>
       <body>
          <div type="conference_minutes">
-            <pb n="3" facs="tcp:007923_0002_102E02209DBDD0B8"/>
+            <pb n="3" facs="unknown:007923_0002_102E02209DBDD0B8"/>
             <head>MINUTES OF <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>ONFERENCES, &amp;<hi>c. PHILADELPHIA.</hi>
@@ -156,7 +156,7 @@
                <p>
                   <hi>Brethren,</hi>
                </p>
-               <p>As many Stories have been told to the <hi>Indians</hi> to our Prejudice, I deſire you will unde<g ref="char:EOLhyphen"/>ceive them; and particularly I do charge <hi>William Locquies</hi> to acquaint the <hi>Delawares,</hi> that thoſe of their Tribe who live among us, have not had any Miſchief done them, but are treated with our uſual Kindneſs, and are at Liberty, and live in Peace and Plenty among us.—I charge you <hi>William Locquies,</hi> to declare the Truth to the <hi>Indians,</hi> and to aſſure <pb n="4" facs="tcp:007923_0003_102E0222438AD470"/>them that they have been impoſed on; and relate the Care that has been taken, as well by the Government of <hi>New-Jerſey,</hi> as this, of all the <hi>Indians</hi> who have ſtaid with us, and that they enjoy our Protection, and live as happily as ever.</p>
+               <p>As many Stories have been told to the <hi>Indians</hi> to our Prejudice, I deſire you will unde<g ref="char:EOLhyphen"/>ceive them; and particularly I do charge <hi>William Locquies</hi> to acquaint the <hi>Delawares,</hi> that thoſe of their Tribe who live among us, have not had any Miſchief done them, but are treated with our uſual Kindneſs, and are at Liberty, and live in Peace and Plenty among us.—I charge you <hi>William Locquies,</hi> to declare the Truth to the <hi>Indians,</hi> and to aſſure <pb n="4" facs="unknown:007923_0003_102E0222438AD470"/>them that they have been impoſed on; and relate the Care that has been taken, as well by the Government of <hi>New-Jerſey,</hi> as this, of all the <hi>Indians</hi> who have ſtaid with us, and that they enjoy our Protection, and live as happily as ever.</p>
                <p>
                   <hi>A String.</hi>
                </p>
@@ -201,7 +201,7 @@
                   <hi>Gave a String.</hi>
                </p>
                <p>
-                  <pb n="5" facs="tcp:007923_0004_102E0223EDC3E970"/>
+                  <pb n="5" facs="unknown:007923_0004_102E0223EDC3E970"/>
                   <hi>Brother</hi> Onas,</p>
                <p>We deſire you will look upon us with Eyes of Mercy. We are a very poor People; our Wives and Children are almoſt naked. We are void of Underſtanding, and deſtitute of the Neceſſaries of Life. Pity us.</p>
                <p>
@@ -275,7 +275,7 @@
                   <hi>A String of four Rows.</hi>
                </p>
                <p>
-                  <pb n="6" facs="tcp:007923_0005_102E02258C757BD0"/>
+                  <pb n="6" facs="unknown:007923_0005_102E02258C757BD0"/>
                   <hi>Brethren, the</hi> Shawaneſe, Delawares, Memſkies, <hi>and</hi> Mohickons,</p>
                <p>As you on your Parts have confirmed the Treaties and Leagues of Amity ſubſiſting between you and this Government, and given a Belt in Confirmation thereof, and deſire the ſame be done on our Part; I do now, by this Belt, ratify and confirm all former Treaties and En<g ref="char:EOLhyphen"/>gagements, and aſſure, that they ſhall be moſt inviolably obſerved as long as the Sun ſhines.</p>
                <p>
@@ -343,7 +343,7 @@
                </p>
                <p>Agreeable to the repeated Advice and Requeſt of <hi>Scarroyady,</hi> and other <hi>Indians</hi> of the <hi>Six Nations,</hi> then reſiding in this Province, I engaged to build a Fort at <hi>Shamokin,</hi> for the Protec<g ref="char:EOLhyphen"/>tion of our Friendly <hi>Indians,</hi> their Wives and Children; and I now acquaint you with the March of the Forces, in order to effect this uſeful Work, that it may give no Umbrage the Commander having my Orders not to act offenſively.</p>
                <p>
-                  <pb n="7" facs="tcp:007923_0006_102E022723B19A90"/>
+                  <pb n="7" facs="unknown:007923_0006_102E022723B19A90"/>
                   <hi>Brethren,</hi>
                </p>
                <p>You are to take Notice, that nothing propoſed by me is to interfere with any Invitation you may have received from Sir <hi>William Johnſon,</hi> or your Uncles, the <hi>Six Nations</hi>; they have acquainted me, that a great Council is to be held in the Country of the <hi>Six Nations</hi>; and thoſe <hi>Indians</hi> at <hi>Teaogon</hi> are invited to it: I would have them by all Means give their At<g ref="char:EOLhyphen"/>tendance there. You may go to either Place as you incline, for we are both in the Service of one King, and act by his Direction.</p>
@@ -411,7 +411,7 @@
                </p>
                <p>The firſt Meſſages you ſent me, came in the Spring; they touched my Heart; they gave me Abundance of Joy. I returned an Anſwer to them, and waited for your ſecond Meſſages, which came after ſome Time, and were likewiſe very agreeable. By the laſt you acquainted me that you had kindled a Council Fire, and invited me and my People to it. We accepted the Invitation; and I came accordingly, and have ſtaid ſeveral Days, ſmoaking my Pipe with Patience, expecting to meet you here. We are ready to hear what you have to ſay, and not only we, but five other Nations, in all ten Nations, are now turning their Eyes this Way, and wait what will be ſaid and done at this Meeting.</p>
                <p>
-                  <pb n="8" facs="tcp:007923_0007_102E02295C47A790"/>
+                  <pb n="8" facs="unknown:007923_0007_102E02295C47A790"/>
                   <hi>Brother,</hi>
                </p>
                <p>I ſolemnly, and with the utmoſt Sincerity, declare, that tho' you may think I am a<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -447,7 +447,7 @@
                      <desc>•</desc>
                   </gap> of Delay.—<hi>Whiſh-ſhickſy</hi>; do it effectually, and do it with all poſſible Diſpatch.</p>
                <p>
-                  <pb n="9" facs="tcp:007923_0008_102E022C9572EBC8"/>
+                  <pb n="9" facs="unknown:007923_0008_102E022C9572EBC8"/>
                   <hi>The Governor then ſpoke.</hi>
                </p>
                <p>
@@ -480,7 +480,7 @@
                   <hi>Brethren,</hi>
                </p>
                <p>The Inhabitants of this Province have ever been a peaceable People, and remarkable for their Love and conſtant Friendſhip to the <hi>Six Nations,</hi> and other <hi>Indians</hi> in Alliance with them.</p>
-               <p>When our Back Inhabitants were attacked laſt Fall, we at firſt were at a Loſs to know from whence the Blow came; and were much ſurprized when we were informed that it was given by our old Friends and Neighbours the Couſins of our Brethren the <hi>Six Nations</hi>; we won<g ref="char:EOLhyphen"/>dered at it; and the more ſo, as we had not, to our Knowledge, given them any juſt Cauſe of Offence.—As ſoon as we knew this, we ſent to the <hi>Six Nations,</hi> and informed them of it, and deſired to know, whether this Blow had been ſtruck by their Direction, or with their Pri<g ref="char:EOLhyphen"/>vity or Conſent: And on receiving Aſſurances from them, that it was not done with their Con<g ref="char:EOLhyphen"/>ſent, and that they greatly diſapproved ſuch Conduct, we made ready to revenge the Injury we had received, and we wanted neither Men or Arms, Ammunition, nor Strength to do it, and to take Vengeance for the Injury done us; yet, when we had the Hatchet in our Hands, and were prepared not only to defend ourſelves, but to carry the War into the Country of thoſe who had ſtruck us, we ſent again to the <hi>Six Nations,</hi> agreeable to the Treaties ſubſiſting between us, to acquaint them of our Intentions. They let us know they had held a Grand Council, at <hi>Fort Johnſon,</hi> on this Matter, and that Deputies from thence were ſent to ſummon a Meeting of <hi>Delawares</hi> and <hi>Shawaneſe</hi> at <hi>Otſaningo,</hi> who were return<g ref="char:EOLhyphen"/>ed with an Account, That their Nephews had, at their Interpoſition, laid down the Hatchet, and would ſtrike the <hi>Engliſh</hi> no more. The <hi>Six Nations</hi> having received theſe Aſſurances from the <hi>Delawares</hi> and <hi>Shawaneſe,</hi> requeſted us not to execute our hoſtile Purpoſes, but to ſuſpend Hoſtilities; declaring, that they would fully accommodate this Breach, and bring about a Peace. At this Requeſt of the <hi>Six Nations,</hi> we kept our Warriors at Home, for guarding and protecting our Frontiers. I then ſent <hi>Newcaſtle,</hi> and other <hi>Indian</hi> Meſſengers to you, to notify the Advices of the <hi>Six Nations,</hi> with reſpect to what had been determined at <hi>Otſaningo,</hi> inſtructing him, in caſe he found you ſincerely diſpoſed for Peace, and inclined to return to your Alliance with us, to aſſure you, on the Behalf of this Government, that we were willing to it, on juſt and honourable Terms. <hi>Newcaſtle,</hi> and the other Meſſengers, re<g ref="char:EOLhyphen"/>turned with your Anſwers; in which you acknowledged, you had been under the Influence of an Evil Spirit, but were well diſpoſed to return to your old Amity and Friendſhip; at the ſame Time letting us know, that you was ſorry for what had paſſed; that you was in Diſtreſs, and deſired we would pity your Diſtreſſes. To ſhew our Readineſs to enter into a Treaty, and our Sincerity in what was ſaid by <hi>Newcaſtle,</hi> I ſent him back again to you, to let you know, on the Behalf of this Government, that I had kindled a Council-Fire, invited all your People to it, cleared the Road, waſhed off the Blood, and promiſed, if your People would come to Council, and renew former Leagues, and do what is further neceſſary on the Occaſion, I would bring ſomething with me to relieve your Diſtreſſes.—I thought it right to go through this Account in this particular Manner, that you might know from myſelf what was the Subject of the Meſſages ſent by <hi>Newcaſtle,</hi> and what was the Subſtance of the An<g ref="char:EOLhyphen"/>ſwers I received by him. And now, I ſuppoſe (as I do not ſee the Body of your <hi>Indians</hi> here) your People, in general, did not believe <hi>Newcaſtle,</hi> but ſent you to know if he had my <pb n="10" facs="tcp:007923_0009_102FC1B4A6143EC8"/>Authority for the ſeveral Matters he delivered to you, and to hear them from my own Mouth. I do not blame you for this Caution, it beſpeaks your Care. The Matters he was charged with being of the laſt Concern, for the Satisfaction of all your People, how wide ſo<g ref="char:EOLhyphen"/>ever they are diſperſed, I do in this publick Aſſembly, in the Name of the Government, and People of this Province, aſſure you, that Captain <hi>Newcaſtle</hi> acted by my Authority; and in Confirmation of what I have ſaid, and that what he delivered, was by Authority from me, I give you this Belt.</p>
+               <p>When our Back Inhabitants were attacked laſt Fall, we at firſt were at a Loſs to know from whence the Blow came; and were much ſurprized when we were informed that it was given by our old Friends and Neighbours the Couſins of our Brethren the <hi>Six Nations</hi>; we won<g ref="char:EOLhyphen"/>dered at it; and the more ſo, as we had not, to our Knowledge, given them any juſt Cauſe of Offence.—As ſoon as we knew this, we ſent to the <hi>Six Nations,</hi> and informed them of it, and deſired to know, whether this Blow had been ſtruck by their Direction, or with their Pri<g ref="char:EOLhyphen"/>vity or Conſent: And on receiving Aſſurances from them, that it was not done with their Con<g ref="char:EOLhyphen"/>ſent, and that they greatly diſapproved ſuch Conduct, we made ready to revenge the Injury we had received, and we wanted neither Men or Arms, Ammunition, nor Strength to do it, and to take Vengeance for the Injury done us; yet, when we had the Hatchet in our Hands, and were prepared not only to defend ourſelves, but to carry the War into the Country of thoſe who had ſtruck us, we ſent again to the <hi>Six Nations,</hi> agreeable to the Treaties ſubſiſting between us, to acquaint them of our Intentions. They let us know they had held a Grand Council, at <hi>Fort Johnſon,</hi> on this Matter, and that Deputies from thence were ſent to ſummon a Meeting of <hi>Delawares</hi> and <hi>Shawaneſe</hi> at <hi>Otſaningo,</hi> who were return<g ref="char:EOLhyphen"/>ed with an Account, That their Nephews had, at their Interpoſition, laid down the Hatchet, and would ſtrike the <hi>Engliſh</hi> no more. The <hi>Six Nations</hi> having received theſe Aſſurances from the <hi>Delawares</hi> and <hi>Shawaneſe,</hi> requeſted us not to execute our hoſtile Purpoſes, but to ſuſpend Hoſtilities; declaring, that they would fully accommodate this Breach, and bring about a Peace. At this Requeſt of the <hi>Six Nations,</hi> we kept our Warriors at Home, for guarding and protecting our Frontiers. I then ſent <hi>Newcaſtle,</hi> and other <hi>Indian</hi> Meſſengers to you, to notify the Advices of the <hi>Six Nations,</hi> with reſpect to what had been determined at <hi>Otſaningo,</hi> inſtructing him, in caſe he found you ſincerely diſpoſed for Peace, and inclined to return to your Alliance with us, to aſſure you, on the Behalf of this Government, that we were willing to it, on juſt and honourable Terms. <hi>Newcaſtle,</hi> and the other Meſſengers, re<g ref="char:EOLhyphen"/>turned with your Anſwers; in which you acknowledged, you had been under the Influence of an Evil Spirit, but were well diſpoſed to return to your old Amity and Friendſhip; at the ſame Time letting us know, that you was ſorry for what had paſſed; that you was in Diſtreſs, and deſired we would pity your Diſtreſſes. To ſhew our Readineſs to enter into a Treaty, and our Sincerity in what was ſaid by <hi>Newcaſtle,</hi> I ſent him back again to you, to let you know, on the Behalf of this Government, that I had kindled a Council-Fire, invited all your People to it, cleared the Road, waſhed off the Blood, and promiſed, if your People would come to Council, and renew former Leagues, and do what is further neceſſary on the Occaſion, I would bring ſomething with me to relieve your Diſtreſſes.—I thought it right to go through this Account in this particular Manner, that you might know from myſelf what was the Subject of the Meſſages ſent by <hi>Newcaſtle,</hi> and what was the Subſtance of the An<g ref="char:EOLhyphen"/>ſwers I received by him. And now, I ſuppoſe (as I do not ſee the Body of your <hi>Indians</hi> here) your People, in general, did not believe <hi>Newcaſtle,</hi> but ſent you to know if he had my <pb n="10" facs="unknown:007923_0009_102FC1B4A6143EC8"/>Authority for the ſeveral Matters he delivered to you, and to hear them from my own Mouth. I do not blame you for this Caution, it beſpeaks your Care. The Matters he was charged with being of the laſt Concern, for the Satisfaction of all your People, how wide ſo<g ref="char:EOLhyphen"/>ever they are diſperſed, I do in this publick Aſſembly, in the Name of the Government, and People of this Province, aſſure you, that Captain <hi>Newcaſtle</hi> acted by my Authority; and in Confirmation of what I have ſaid, and that what he delivered, was by Authority from me, I give you this Belt.</p>
                <p>
                   <hi>A Belt.</hi>
                </p>
@@ -511,7 +511,7 @@
                <p>
                   <hi>Brother,</hi>
                </p>
-               <p>At the very Time <hi>Newcaſtle</hi> came with your laſt Meſſages, I was in Treaty with the <hi>Six Nations,</hi> and then received this Authority from them. [<hi>Liſting up the Belt.</hi>] This Belt de<g ref="char:EOLhyphen"/>notes, that the <hi>Six Nations,</hi> by their Chiefs, have lately renewed their Covenant Chain with us; formerly we were accounted Women, and employed only in Womens Buſineſs; but now they have made Men of us, and as ſuch we are now come to this Treaty. Having this Authority as a Man to make Peace, I have it in my Hand, but have not opened it; but will ſoon declare it to the other Nations. This Belt holds together ten Nations; we are in the Middle, between the <hi>French</hi> and <hi>Engliſh</hi>; look at it. There are but two Chiefs of the ten Nations; they are now looking on, and their Attention is ſixed, to ſee who are diſpoſed <pb n="11" facs="tcp:007923_0010_102E02310F94DC70"/>really for Peace.—This Belt further denotes, that whoever will not comply with the Terms of Peace, the ten Nations will join againſt him and ſtrike him; ſee the dangerous Circum<g ref="char:EOLhyphen"/>cumſtances I am in; ſtrong Men on both Sides; Hatchets on both Sides; whoever does in<g ref="char:EOLhyphen"/>cline to Peace, him will I join.</p>
+               <p>At the very Time <hi>Newcaſtle</hi> came with your laſt Meſſages, I was in Treaty with the <hi>Six Nations,</hi> and then received this Authority from them. [<hi>Liſting up the Belt.</hi>] This Belt de<g ref="char:EOLhyphen"/>notes, that the <hi>Six Nations,</hi> by their Chiefs, have lately renewed their Covenant Chain with us; formerly we were accounted Women, and employed only in Womens Buſineſs; but now they have made Men of us, and as ſuch we are now come to this Treaty. Having this Authority as a Man to make Peace, I have it in my Hand, but have not opened it; but will ſoon declare it to the other Nations. This Belt holds together ten Nations; we are in the Middle, between the <hi>French</hi> and <hi>Engliſh</hi>; look at it. There are but two Chiefs of the ten Nations; they are now looking on, and their Attention is ſixed, to ſee who are diſpoſed <pb n="11" facs="unknown:007923_0010_102E02310F94DC70"/>really for Peace.—This Belt further denotes, that whoever will not comply with the Terms of Peace, the ten Nations will join againſt him and ſtrike him; ſee the dangerous Circum<g ref="char:EOLhyphen"/>cumſtances I am in; ſtrong Men on both Sides; Hatchets on both Sides; whoever does in<g ref="char:EOLhyphen"/>cline to Peace, him will I join.</p>
                <p>
                   <hi>Brother,</hi>
                </p>
@@ -562,7 +562,7 @@
                   <hi>Brethren,</hi>
                </p>
                <p>
-                  <pb n="12" facs="tcp:007923_0011_102E0232A85A23A0"/>Brethren,</p>
+                  <pb n="12" facs="unknown:007923_0011_102E0232A85A23A0"/>Brethren,</p>
                <p>This is not only their Sentiments but my own, and thoſe of the People of this Province; who will all rejoice to ſee this good Work of Peace perfected; and therefore, as you have now received from us this ſubſtantial Proof of our Diſpoſition to relieve your Diſtreſſes, you will be the better enabled to encourage others to return to their former Friendſhip with us. I ſay, Brother, by this we give you a clear Teſtimony of our Readineſs and good Diſpoſitions for Peace. Shew you the ſame Readineſs, and comply with the Terms I have propoſed to you.</p>
                <p>A String.</p>
                <p>
@@ -597,7 +597,7 @@
                   </list>
                </p>
                <p>MR. <hi>WEISER</hi> was aſk'd, Whether it was intended the Governor ſhould keep the Belt <hi>Teedyuſcung</hi> gave, or return it? Mr. <hi>Weiſer</hi> anſwered, That having ſome Doubts about it, he put the ſame Queſtion to <hi>Newcaſtle,</hi> who ſaid the Belt was ſent by the <hi>Six Na<g ref="char:EOLhyphen"/>tions</hi> 
-                  <pb n="13" facs="tcp:007923_0012_102E023444631BA0"/>to the <hi>Delawares,</hi> and as it was given by them to the Governor, it ought to be preſerved among the Council Wampum, being a Belt of great Conſequence; and it would be well to return another of a Fathom long, and at the Delivery of it, which muſt be in Council To<g ref="char:EOLhyphen"/>morrow, to make a proper Addreſs to <hi>Teedyuſcung,</hi> that he would be diligent, and carry it to all the Nations within his Influence. <hi>Newcaſtle</hi> ſaid further, That <hi>Teedyuſcung</hi> would want Abundance of Wampum, and if he had it not, the Cauſe would ſuffer exceedingly. He hoped the Council Bag was full, and deſired it might be emptied into the Lap of <hi>Teedyuſcung.</hi> Mr. <hi>Weiſer</hi> concurring in Opinion, and ſaying, that the <hi>French</hi> gave great Quantities of Wampum to their <hi>Indians,</hi> and on Matters of Conſequence their Belts were ſeveral Fathom long, and very wide, the Secretary was ordered to bring what Wampum he had into Coun<g ref="char:EOLhyphen"/>cil, <hi>viz.</hi> Fifteen Strings, and ſeven Belts, a Parcel of new black Wampum, amounting to ſeven Thouſand; and having no new white Wampum, nor any proper Belts to give in Re<g ref="char:EOLhyphen"/>turn for <hi>Teedyuſcung</hi>'s Peace Belt, a Meſſenger was ſent to <hi>Bethlehem,</hi> and he returned with five Thouſand; upon which the <hi>Indian</hi> Women were employed to make a Belt of a Fathom long, and ſixteen Beads wide; in the Center of which was to be the Figure of a Man, mean<g ref="char:EOLhyphen"/>ing the Governor of <hi>Pennſylvania,</hi> and on each Side five other Figures, meaning the ten Na<g ref="char:EOLhyphen"/>tions mentioned by <hi>Teedyuſcung.</hi>
+                  <pb n="13" facs="unknown:007923_0012_102E023444631BA0"/>to the <hi>Delawares,</hi> and as it was given by them to the Governor, it ought to be preſerved among the Council Wampum, being a Belt of great Conſequence; and it would be well to return another of a Fathom long, and at the Delivery of it, which muſt be in Council To<g ref="char:EOLhyphen"/>morrow, to make a proper Addreſs to <hi>Teedyuſcung,</hi> that he would be diligent, and carry it to all the Nations within his Influence. <hi>Newcaſtle</hi> ſaid further, That <hi>Teedyuſcung</hi> would want Abundance of Wampum, and if he had it not, the Cauſe would ſuffer exceedingly. He hoped the Council Bag was full, and deſired it might be emptied into the Lap of <hi>Teedyuſcung.</hi> Mr. <hi>Weiſer</hi> concurring in Opinion, and ſaying, that the <hi>French</hi> gave great Quantities of Wampum to their <hi>Indians,</hi> and on Matters of Conſequence their Belts were ſeveral Fathom long, and very wide, the Secretary was ordered to bring what Wampum he had into Coun<g ref="char:EOLhyphen"/>cil, <hi>viz.</hi> Fifteen Strings, and ſeven Belts, a Parcel of new black Wampum, amounting to ſeven Thouſand; and having no new white Wampum, nor any proper Belts to give in Re<g ref="char:EOLhyphen"/>turn for <hi>Teedyuſcung</hi>'s Peace Belt, a Meſſenger was ſent to <hi>Bethlehem,</hi> and he returned with five Thouſand; upon which the <hi>Indian</hi> Women were employed to make a Belt of a Fathom long, and ſixteen Beads wide; in the Center of which was to be the Figure of a Man, mean<g ref="char:EOLhyphen"/>ing the Governor of <hi>Pennſylvania,</hi> and on each Side five other Figures, meaning the ten Na<g ref="char:EOLhyphen"/>tions mentioned by <hi>Teedyuſcung.</hi>
                </p>
                <p>The King, who was very irregular in his Viſits, as well as in his Diſcourſes, bolted all of a ſudden into the Room, and with a high Tone of Voice ſpoke as follows, <hi>viz.</hi>
                </p>
@@ -612,7 +612,7 @@
                </p>
             </div>
             <div type="day">
-               <pb n="14" facs="tcp:007923_0013_102E023677EAF4E8"/>
+               <pb n="14" facs="unknown:007923_0013_102E023677EAF4E8"/>
                <head>
                   <hi>At a</hi> COUNCIL <hi>held at</hi> Eaſton, <hi>on</hi> Saturday, <hi>the 31ſt of</hi> July, 1756</head>
                <p>PRESENT,
@@ -682,7 +682,7 @@
                      <desc>•</desc>
                   </gap> and come out one.</p>
                <p>
-                  <pb n="15" facs="tcp:007923_0014_102E02381B4AA608"/>The Governor ſaid, that he had written down what <hi>Teedyuſcung</hi> ſaid on the Belt deli<g ref="char:EOLhyphen"/>vered by him, and will keep it in his Heart. It is very agreeable to him and the People of <hi>Penn<g ref="char:EOLhyphen"/>ſylvania.</hi> He will lay up the Belt in the Council-chamber as a Mark of his Friendſhip. As he is appointed Agent for <hi>Pennſylvania,</hi> with Captain <hi>Newcaſtle,</hi> he puts into his Hands all the Belts and Wampum he has here, to be made uſe of by him in the Courſe of his Nego<g ref="char:EOLhyphen"/>tiations, as he may judge moſt proper, and moſt for the Intereſt of the People of this Pro<g ref="char:EOLhyphen"/>vince.</p>
+                  <pb n="15" facs="unknown:007923_0014_102E02381B4AA608"/>The Governor ſaid, that he had written down what <hi>Teedyuſcung</hi> ſaid on the Belt deli<g ref="char:EOLhyphen"/>vered by him, and will keep it in his Heart. It is very agreeable to him and the People of <hi>Penn<g ref="char:EOLhyphen"/>ſylvania.</hi> He will lay up the Belt in the Council-chamber as a Mark of his Friendſhip. As he is appointed Agent for <hi>Pennſylvania,</hi> with Captain <hi>Newcaſtle,</hi> he puts into his Hands all the Belts and Wampum he has here, to be made uſe of by him in the Courſe of his Nego<g ref="char:EOLhyphen"/>tiations, as he may judge moſt proper, and moſt for the Intereſt of the People of this Pro<g ref="char:EOLhyphen"/>vince.</p>
                <p>
                   <hi>Teedyuſcung</hi> anſwered, That he might meet with Difficulties in tranſacting the important Buſineſs committed to his Charge; but as he is now one of the Council of the Province of <hi>Pennſylvania,</hi> he aſſures his Brethren, that he will exert himſelf faithfully, and to the utmoſt of his Abilities, in the Service; and if he meets with crooked Paths, he will endeavour to make them ſtraight.</p>
                <p>The Governor thanked <hi>Teedyuſcung</hi> and <hi>Newcaſtle</hi> for their undertaking to be Agents for <hi>Pennſylvania</hi> on this Occaſion, deſired that they might unite and co-operate one with ano<g ref="char:EOLhyphen"/>ther, and conſult together on the proper Meaſures to be entered into by them, and delivered them two Belts tied together, as a Sign or Symbol of that Harmony and Unanimity that ought to ſubſiſt between them.</p>
@@ -773,7 +773,7 @@
                </closer>
             </div>
             <div type="day">
-               <pb n="16" facs="tcp:007923_0015_102E023BC25E0C70"/>
+               <pb n="16" facs="unknown:007923_0015_102E023BC25E0C70"/>
                <head>
                   <hi>At a</hi> CONFERENCE <hi>with the</hi> Indians, <hi>held at</hi> Eaſton, <hi>on</hi> Monday, <hi>the 8th of</hi> November, 1756.</head>
                <p>PRESENT,
@@ -842,7 +842,7 @@
                <p>I have taken all the Pains poſſible to execute what I then undertook, and have brought with me ſeveral of different Tribes, as well <hi>Delawares</hi> as <hi>Six Nation Indians.</hi>
                </p>
                <p>
-                  <pb n="17" facs="tcp:007923_0016_102E023D5B434750"/>I held up the Encouragements I received from the <hi>Engliſh,</hi> and ſpread them far and near to all the Tribes I promiſed to go to, as well among the <hi>Delawares</hi> as <hi>Six Nations</hi>; and I aſ<g ref="char:EOLhyphen"/>ſure you, I have been true and faithful to my Promiſes, and uſed all the Diligence in my Power; in Teſtimony whereof I give theſe</p>
+                  <pb n="17" facs="unknown:007923_0016_102E023D5B434750"/>I held up the Encouragements I received from the <hi>Engliſh,</hi> and ſpread them far and near to all the Tribes I promiſed to go to, as well among the <hi>Delawares</hi> as <hi>Six Nations</hi>; and I aſ<g ref="char:EOLhyphen"/>ſure you, I have been true and faithful to my Promiſes, and uſed all the Diligence in my Power; in Teſtimony whereof I give theſe</p>
                <p>
                   <hi>Four Strings.</hi>
                </p>
@@ -905,7 +905,7 @@
                <p>
                   <hi>Brother,</hi>
                </p>
-               <p>THIS is to notify to you, that at the Treaty held here in the Summer, I promiſed to publiſh what was then delivered to me to all the Nations I could have any Influence on; and that I have performed all I promiſed, and done my Duty faithfully, with Reſpect to all theſe <pb n="18" facs="tcp:007923_0017_102E023F93CB8910"/>Nations, I can evidence by ſome of them who are come with me, and are now here, a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+               <p>THIS is to notify to you, that at the Treaty held here in the Summer, I promiſed to publiſh what was then delivered to me to all the Nations I could have any Influence on; and that I have performed all I promiſed, and done my Duty faithfully, with Reſpect to all theſe <pb n="18" facs="unknown:007923_0017_102E023F93CB8910"/>Nations, I can evidence by ſome of them who are come with me, and are now here, a<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> your Pleaſure, ready to hear what you have to ſay to us, and diſpoſed to do every Thing in<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -957,7 +957,7 @@
                <p>
                   <hi>CONRAD WEISER,</hi> from <hi>Teedyuſcung,</hi> acquainted the Governor, That laſt Night an <hi>Indian,</hi> named <hi>Zacc<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
-                     </gap>eus,</hi> brought an Account from <hi>Fort Allen,</hi> that about For<g ref="char:EOLhyphen"/>ty <hi>Indian</hi> Warriors were come to <hi>Niſhamekatchton,</hi> a Creek about three Miles beyond that Fort, from <hi>Diabogo,</hi> where they were informed by ſome <hi>Indians,</hi> who firſt ſet out with <hi>Teedy<g ref="char:EOLhyphen"/>uſcung</hi> to accompany him to the Treaty at <hi>Eaſton,</hi> that he and all his Company were cut off, and they were come to revenge his Death, in caſe they ſhould have found it true; but hear<g ref="char:EOLhyphen"/>ing <hi>Teedyuſeung</hi> was ſafe, and kindly received by the <hi>Engliſh,</hi> they were glad, and would re<g ref="char:EOLhyphen"/>main there. <hi>Teedyuſcung</hi> being aſked by Mr. <hi>Weiſer,</hi> if it would not be proper to ſend an In<g ref="char:EOLhyphen"/>vitation to them to come to the Treaty, he ſaid it would, and deſired the Governor might <pb n="19" facs="tcp:007923_0018_102E02412B6CDA10"/>join with him in it; which being approved by the Governor, <hi>Moſes Tattamy,</hi> and Lieute<g ref="char:EOLhyphen"/>nant <hi>Holler,</hi> were diſpatched with the Meſſage.</p>
+                     </gap>eus,</hi> brought an Account from <hi>Fort Allen,</hi> that about For<g ref="char:EOLhyphen"/>ty <hi>Indian</hi> Warriors were come to <hi>Niſhamekatchton,</hi> a Creek about three Miles beyond that Fort, from <hi>Diabogo,</hi> where they were informed by ſome <hi>Indians,</hi> who firſt ſet out with <hi>Teedy<g ref="char:EOLhyphen"/>uſcung</hi> to accompany him to the Treaty at <hi>Eaſton,</hi> that he and all his Company were cut off, and they were come to revenge his Death, in caſe they ſhould have found it true; but hear<g ref="char:EOLhyphen"/>ing <hi>Teedyuſeung</hi> was ſafe, and kindly received by the <hi>Engliſh,</hi> they were glad, and would re<g ref="char:EOLhyphen"/>main there. <hi>Teedyuſcung</hi> being aſked by Mr. <hi>Weiſer,</hi> if it would not be proper to ſend an In<g ref="char:EOLhyphen"/>vitation to them to come to the Treaty, he ſaid it would, and deſired the Governor might <pb n="19" facs="unknown:007923_0018_102E02412B6CDA10"/>join with him in it; which being approved by the Governor, <hi>Moſes Tattamy,</hi> and Lieute<g ref="char:EOLhyphen"/>nant <hi>Holler,</hi> were diſpatched with the Meſſage.</p>
                <p>The Minutes of Yeſterday's Conference were read, and the Anſwer conſidered and agreed to, but referred till the Return of the Meſſengers from the <hi>Indians</hi> beyond <hi>F<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>rt Allen.</hi>
@@ -997,7 +997,7 @@
             </div>
             <div type="day">
                <pb n="20"
-                   facs="tcp:007923_0019_102E0242CA7B3A40"
+                   facs="unknown:007923_0019_102E0242CA7B3A40"
                    rendition="simple:additions"/>
                <head>1756. <hi>At a</hi> CONFERENCE <hi>with the</hi> Indians, <hi>on</hi> Friday, <hi>the 12th of</hi> Novem<g ref="char:EOLhyphen"/>ber, 1756, P. M.</head>
                <p>PRESENT,
@@ -1058,7 +1058,7 @@
                   <hi>Teedyuſcung</hi> thanked the Governor, and deſired Time to conſider till To-morrow, and he would give an Anſwer at ſuch Time as the Governor would be pleaſed to appoint.</p>
                <p>
                   <pb n="21"
-                      facs="tcp:007923_0020_102E02476ECCFCD0"
+                      facs="unknown:007923_0020_102E02476ECCFCD0"
                       rendition="simple:additions"/>The Governor deſired he would take full Time to conſider it, as it was a Matter of Con<g ref="char:EOLhyphen"/>ſequence, and let him know when he was ready; and deſired at the ſame Time he would offer what he had further to ſay on any other Matter.</p>
             </div>
             <div type="day">
@@ -1119,7 +1119,7 @@
                </p>
                <p>I am now going to tell you ſomething in a few Words, in Anſwer to your Requeſt laſt Night, that I ſhould give you a true Account how I came to ſtrike you.</p>
                <p>In the Beginning of the Confuſion and War that happened the Fall before this, I lived in the Middle of the Road leading from the <hi>Six Nations</hi> to <hi>Philadelphia,</hi> where I was ordered, by my Uncles to ſit down; and there I ſat in profound Peace, under no Apprehenſion of Danger; and when I looked towards <hi>Philadelphia,</hi> I ſaw my Brother the Governor, and no<g ref="char:EOLhyphen"/>thing but Peace and Friendſhip; and when I looked the other Way towards my Uncles the <hi>Six Nations,</hi> every thing was alſo Peace there; ſo it was with me until all at once a Man, whoſe Name is called <hi>Charles Broadhead,</hi> an Inhabitant of this Province, came to me at <hi>Wioming,</hi> and told me, as if he had ſuch a Meſſage from the Governor, that I had ſtruck my Brethren the <hi>Engliſh,</hi> which I denied over and over; and when I could not prevail with <pb n="22"
-                      facs="tcp:007923_0021_102E0249153179E0"
+                      facs="unknown:007923_0021_102E0249153179E0"
                       rendition="simple:additions"/>him to believe me, I took two Handfuls of Wampum, and deſired him to go down with them to the Governor, and aſſure him that it was not I who ſtruck the <hi>Engliſh.</hi> I alſo de<g ref="char:EOLhyphen"/>ſired the Governor to let me know what further Meaſures I ſhould take, to ſatisfy him and my Brethren the <hi>Engliſh</hi> of the Truth of this.—I alſo deſired, by the ſame Meſſenger, that the Governor would take all the prudent Methods he could to relate this to Colonel <hi>Johnſon</hi> and to my Uncles the <hi>Six Nations,</hi> as I was under a good deal of Concern that this Charge was laid againſt me.—There were two Kings preſent beſides me, who joined with me in the Meſſage; and I likewiſe deſired the Governor to ſend me Word what to do, for which I waited till I was out of Patience, and obliged to flee, and leave my Inheritance on that Account.</p>
                <p>
                   <hi>Gave a String.</hi>
@@ -1160,7 +1160,7 @@
                </p>
                <p>
                   <pb n="23"
-                      facs="tcp:007923_0022_102E024AAD353248"
+                      facs="unknown:007923_0022_102E024AAD353248"
                       rendition="simple:additions"/>Then the Governor deſired of <hi>Teedyuſcung,</hi> as he had mentioned Grievances received by the <hi>Indians</hi> from this and other Governments, to let him know what they were, and to ſpeak his Mind freely and fully without any reſerve; upon which <hi>Teedyuſcung</hi> ſpoke as follows.</p>
                <p>
                   <hi>Brother,</hi>
@@ -1178,7 +1178,7 @@
                   <hi>Brother,</hi>
                </p>
                <p>As you have deſired me to be very particular, I have told you the Truth, and have opened my Mind fully. I did not intend to ſpeak thus, but I have done it at this Time, at your Re<g ref="char:EOLhyphen"/>queſt; <pb n="24"
-                      facs="tcp:007923_0023_102E024CEA989A20"
+                      facs="unknown:007923_0023_102E024CEA989A20"
                       rendition="simple:additions"/>not that I deſire you ſhould now purchaſe theſe Lands, but that you ſhould look in<gap reason="illegible" resp="#PDCC" extent="2 letters">
                      <desc>••</desc>
                   </gap> your own Hearts, and conſider what is right, and that do.</p>
@@ -1264,7 +1264,7 @@
                   </gap> as quickly as the Nature of the Buſineſs would admit.</p>
                <p>
                   <pb n="25"
-                      facs="tcp:007923_0024_102E024FEC8527E0"
+                      facs="unknown:007923_0024_102E024FEC8527E0"
                       rendition="simple:additions"/>But upon conferring with the Commiſſioners, he was told by them, that ſuch Promiſes had been frequently made the <hi>Indians</hi> by Governors of other Provinces, and not performed, and theſe People might conſider them as now made with a Deſign to evade giving them Redreſs.</p>
                <p>The Commiſſioners ſaid further, as more Goods were brought than were proper at this Time to be given to the ſmall Number of <hi>Indians</hi> come down, it would be better, whe<g ref="char:EOLhyphen"/>ther the Claim was juſt or unjuſt, to offer them immediate Satisfaction, which they, on the Part of the Publick, with the Governor's Approbation, were willing to do, judging this would effectually remove all their Uneaſineſs. The Governor concurring with them in Sentiments, an Anſwer to their Complaints was framed accordingly.</p>
             </div>
@@ -1329,7 +1329,7 @@
                <p>As I conceive this Belt to be your Authority for acting at this Council-Fire, in Behalf of the <hi>Miniſink Indians,</hi> who only came Part of the Way, I will keep it, and put it into the Council Bag, being glad to hear they have put their Hand to the Belt I ſent, though I ſhould have been better pleaſed to have ſeen them here.</p>
                <p>
                   <pb n="26"
-                      facs="tcp:007923_0025_102DC82DF8DCA7E8"
+                      facs="unknown:007923_0025_102DC82DF8DCA7E8"
                       rendition="simple:additions"/>56. <hi>Brother,</hi>
                </p>
                <p>You give me Hopes of another Viſit. Aſſure yourſelf it will always give me Pleaſure to receive you, and any other of our <hi>Indian</hi> Friends with you. Your kind Offer of giving me timely Notice of the Approach of an Enemy, is an inconteſtable Proof of the Warmth of your Heart for me; and as you have ſo freely offered it, I ſhall ever have an entire Depend<g ref="char:EOLhyphen"/>ance upon you; and whatever Perſons are ſent with Intelligence of this Sort, ſhall be hand<g ref="char:EOLhyphen"/>ſomely rewarded. I expect and deſire you will give the ſame Intelligence to any other Gover<g ref="char:EOLhyphen"/>nor whoſe Country you apprehend to be in Danger, as all the <hi>Engliſh</hi> are of the ſame Fleſh and Blood, and Subjects of the ſame King.</p>
@@ -1369,7 +1369,7 @@
                   </gap>en grow up, they may forget that their Fathers ſold the Lands, and divided the Goods; and ſome evil Spirit, or bad Man, that loves to make Miſchief, may tell them, the Land is ſtill yours; your Fathers never ſold it; the Writings are falſe. Morever, many People, both <hi>Engliſh</hi> and <hi>Indians,</hi> concerned in the for<g ref="char:EOLhyphen"/>mer Purchaſes of Lands, are now dead; and as you do not underſtand Writings and Re<g ref="char:EOLhyphen"/>cords, it may be hard for me to ſatisfy you of the Truth, though my Predeceſſors dealt even ſo uprightly; therefore, to ſhew our ſincere Deſire to heal the preſent Differences, and live in eternal Peace, with you our Brethren, tell me what will ſatisfy you for the Injuſtice you ſuppoſe has been done you in the Purchaſe of Lands in this Province; and if it be in my Power, you ſhall have immediate Satisfaction, whether it be juſtly due to you or not. The good People of this Province are ready and willing to open their Hands, and help me, by contributing freely to this good Work.—Or if you are not impowered to receive ſuch Satis<g ref="char:EOLhyphen"/>faction at this Time, or have not Convenience to carry away the Goods that may be given you on that Account, then I will lodge the Goods in ſuch Hands as you ſhall appoint, till you bring to our next Meeting your old Men of the ſeveral Nations, who may have a Right to a Share in the Diviſion of thoſe Goods, where they ſhall be ready to be delivered to them and you. This may be done at a Council-Fire, to be rekindled at <hi>Philadelphia</hi> for you and us, or here, as you ſhall chuſe, when we expect, and inſiſt, that you bring down all the Captives that ſtill remain in your Country.</p>
                <p>
                   <pb n="27"
-                      facs="tcp:007923_0026_102E0253F244C258"
+                      facs="unknown:007923_0026_102E0253F244C258"
                       rendition="simple:additions"/>And as you mention Grievances from the Neighbouring Governments, I make no Doubt, but on proper Application, you will have the utmoſt Juſtice done you; and if I can be of any Service to you in making the Application, it will give me great Pleaſure; in Teſtimony whereof, I give you this</p>
                <p>
                   <hi>Belt.</hi>
@@ -1518,7 +1518,7 @@
             </div>
             <div type="day">
                <pb n="28"
-                   facs="tcp:007923_0027_102E025591B6E980"
+                   facs="unknown:007923_0027_102E025591B6E980"
                    rendition="simple:additions"/>
                <head>
                   <hi>At a</hi> CONFERENCE <hi>held on</hi> Eaſton, November 16, 1756.</head>
@@ -1616,7 +1616,7 @@
                </p>
                <p>
                   <pb n="29"
-                      facs="tcp:007923_0028_102E0259E007EF98"
+                      facs="unknown:007923_0028_102E0259E007EF98"
                       rendition="simple:additions"/>
                   <hi>Brother,</hi>
                </p>
@@ -1641,7 +1641,7 @@
                <p>I will ſpeak in Favour of the Interpreter; he acted as ſuch in Governor <hi>Morris</hi>'s Time as well as yours; and I am pleaſed with his Conduct on both Occaſions.—If we ſhould have any further Buſineſs to tranſact, I deſire he may be employed.—You know he lives in another Province, and is on that Account at ſome Expence; reward him well for his Services; and do it well for my Sake; but I ſhall leave it to you.</p>
                <p>
                   <pb n="30"
-                      facs="tcp:007923_0029_102E025C33375018"
+                      facs="unknown:007923_0029_102E025C33375018"
                       rendition="simple:additions"/>
                   <hi>Brother,</hi>
                </p>
@@ -1687,7 +1687,7 @@
                   <hi>Brother,</hi>
                </p>
                <p>As our Priſoners may ſuffer for Want of Clothes and other Neceſſaries in this ſevere Seaſon, we would wiſh to have them as ſoon poſſible, and to that End propoſe to ſend with you <pb n="31"
-                      facs="tcp:007923_0030_102E025DD42B5C50"
+                      facs="unknown:007923_0030_102E025DD42B5C50"
                       rendition="simple:additions"/>two Meſſengers, who may collect them together, and bring them down; and I deſire you will give them your Aſſiſtance, which will be a further Proof of your Sincerity.</p>
                <p>
                   <hi>A String.</hi>
@@ -1744,7 +1744,7 @@ RICHARD PETERS, Secretary.</signed>
          </div>
          <div type="minutes">
             <pb n="32"
-                facs="tcp:007923_0031_102E025F6D937718"
+                facs="unknown:007923_0031_102E025F6D937718"
                 rendition="simple:additions"/>
             <head>
                <hi>EXTRACT from the Minutes of the Houſe of</hi> REPRESENTATIVES <hi>of the Province <gap reason="illegible" resp="#PDCC" extent="1 word">
